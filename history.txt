@@ -1,0 +1,489 @@
+    1  ls
+    2  cd Desktop
+    3  mkdir 26268493
+    4  cd 26268493
+    5  name.txt
+    6  echo name.txt
+    7  vi names.txt
+    8  ls
+    9  rm 26268493
+   10  pwd
+   11  cd 26268493
+   12  ls
+   13  cd Desktop
+   14  ls
+   15  rm 26268493
+   16  rm /26268493
+   17  ls
+   18  wq
+   19  cls
+   20  clear
+   21  rm 26268493
+   22  sudo apt install chromium browser
+   23  ls
+   24  ls Downloads
+   25  sudo apt install google-chrome-stable_current_amd64.deb
+   26  sudo apt install google-chrome
+   27  man ls
+   28  nice
+   29  htop
+   30  sudo apt install htop
+   31  htop
+   32  ps
+   33  crontab
+   34  kill
+   35  pwd
+   36  time
+   37  date
+   38  man
+   39  man ls
+   40  sleep
+   41  quit
+   42  sudo apt install <deb name>
+   43  sudo apt install 
+   44  quit
+   45  exit
+   46  mkdir test
+   47  cd test
+   48  touch exercise.md
+   49  mv /tmp
+   50  ls
+   51  mv -rf /tmp
+   52  mv exercise.txt /tmp
+   53  ls
+   54  cd /tmp
+   55  ls
+   56  cd..
+   57  cd ..
+   58  cd test
+   59  ls
+   60  exit
+   61  mkdir test
+   62  cd test
+   63  touch me.md
+   64  mv me.md/tmp
+   65  mv me.md /tmp
+   66  cd /tmp
+   67  ls
+   68  rm me.md
+   69  ls
+   70  mkdir go
+   71  cd go
+   72  touch my.md
+   73  mv my.md /tmp
+   74  ls
+   75  cd /tmp
+   76  ls
+   77  rm my.md
+   78  ls
+   79  echo path
+   80  cd go
+   81  cd ..
+   82  cd go
+   83  cls
+   84  clear
+   85  mkdir goo
+   86  ls
+   87  touch home.md
+   88  ~
+   89  pwd
+   90  cd ~
+   91  touch home.md
+   92  ls
+   93  mv home.md /tmp
+   94  ls
+   95  rm home.md /tmp
+   96  rm home.md cd /tmp
+   97  rm -rf /tmp home.md
+   98  /tmp rm home.md
+   99  cd /tmp
+  100  ls
+  101  cd..
+  102  ~
+  103  cd ~
+  104  ls
+  105  rm ../tmp home.md
+  106  rm -rf /tmp home.md
+  107  rm -rf /tmp home.m
+  108  clear
+  109  pwd
+  110  rm /home/recruit/tmp/home.md
+  111  rm /tmp/home.md
+  112  cd /tmp
+  113  ls
+  114  cd~
+  115  cd ~
+  116  cd test
+  117  touch test.md
+  118  vi
+  119  vi test.md
+  120  cat hello >>text.md
+  121  cat 
+  122  cat umuzi.md
+  123  cd ..
+  124  cat
+  125  cat text.md
+  126  cd test
+  127  cat text.md
+  128  vim text.md
+  129  vi text.md
+  130  cat text.md
+  131  sudo apt install vim
+  132  vim
+  133  sudo apt install vim
+  134  clear
+  135  vim text.md
+  136  vi text.md
+  137  touch texto.md
+  138  vi texto.md
+  139  vi wasa.md
+  140  cat text.md texto.md wasa.md
+  141  cat "text" text.md "texto" texto.md wasa.md
+  142  cat text.md texto.md wasa.md >> summary.md
+  143  cat summary
+  144  cat summary.md
+  145  cat "The end">> summary.md
+  146  cat "The end" >> summary.md
+  147  cat The end >> summary.md
+  148  echo "The end" >> summary.md
+  149  cat summary.md
+  150  locate -i *.md
+  151  locate -i summary.md
+  152  cd..
+  153  cd ..
+  154  locate -i summary.md
+  155  locate umuzi
+  156  locate umuzi > search.md
+  157  cat search.md
+  158  locate umuzi.md > search.md
+  159  cat search.md
+  160  locate umuzi
+  161  locate umuzi > search.md
+  162  cat umuzi > search.md
+  163  touch pad.md /Documents
+  164  cd Documents
+  165  touch pad.md
+  166  cd Dektop
+  167  cd Desktop
+  168  cd ..
+  169  cd Desktop
+  170  cp /Documents/pad.md
+  171  cp pad.md/Documents
+  172  cp pad.md/Documents pad_copy.md
+  173  man cp
+  174  cp --help
+  175  mkdir work
+  176  cp /Documents pad.md
+  177  cp pad.md
+  178  cp pad.md/Documents
+  179  cp pad.md pad_copy.md/Documents
+  180  cp /Desktop pad.md pad_copy.md/Documents
+  181  cp /Desktop/Documents pad.md pad_copy.md
+  182  cp /Desktop/Documents/pad.md pad_copy.md
+  183  cp /Desktop/Documents pad.md pad_copy.md
+  184  cp ../Documents pad.md pad_copy.md
+  185  cp ~/Documents pad.md pad_copy.md
+  186  cp ~/Documents/pad.md pad_copy.md 
+  187  ls
+  188  pwd
+  189  mkdir workspace
+  190  cd workspace
+  191  ls
+  192  touch README.md
+  193  cp README.md CHANGELOG.md
+  194  ls
+  195  touch exercise.md
+  196  ls
+  197  mv exercise.md /tmp
+  198  rm /tmp/exercise.md
+  199  touch umuzi.md recruits.md cohort.md
+  200  vi umuzi.md
+  201  vi recruits.md
+  202  vi cohort.md
+  203  cat umuzi.md recruits.md cohort.md
+  204  cat umuzi.md recruits.md cohort.md > summary.md
+  205  cat summary.md
+  206  echo "The End" >>summary.md
+  207  cat summary.md
+  208  locate umuzi
+  209  locate umuzi > search_result.md
+  210  hitory
+  211  history
+  212  clear
+  213  sudo snap install notepad-plus-plus
+  214  sudo apt install snapd
+  215  sudo snapd update
+  216  sudo snap install notepad-plus-plus
+  217  notepad-plus-plus
+  218  open notepad-plus-plus
+  219  notepad
+  220  notepad-plus-plus
+  221  /snap/bin/notepad-plus-plus
+  222  install apt install idm
+  223  sudo apt install idm
+  224  idm
+  225  open install
+  226  locate idm
+  227  Basic Linux challenges
+  228  Task 1: Basic task
+  229  1. I see folders: Desktop, Documents, Downloads, Music, Pictures, Public, Templates and Videos. This means that ls lists all the folders/prints content of directories.
+  230  2. I see 2 directories: /home/recruit. This means that pwd shows the current working directory.
+  231  4. Nothing, this means that the newly created folder/directory is empty.
+  232  Task 2: Absolute and relative paths
+  233  1. recruit@umuzi-admin:~/workspace$ touch exercise.md
+  234  Task 3: Cat commands
+  235  1. recruit@umuzi-admin:~/workspace$ touch umuzi.md recruits.md cohort.md
+  236  2. recruit@umuzi-admin:~/workspace$ vi umuzi.md
+  237  3. recruit@umuzi-admin:~/workspace$ cat umuzi.md recruits.md cohort.md
+  238  4. recruit@umuzi-admin:~/workspace$ cat umuzi.md recruits.md cohort.md >> summary.md
+  239  5. recruit@umuzi-admin:~/workspace$ echo "The End" >>summary.md
+  240  Task 4: Locate command
+  241  1. recruit@umuzi-admin:~/workspace$ locate umuzi
+  242  2. recruit@umuzi-admin:~/workspace$ locate umuzi > search_result.md
+  243  Task 5: Locate command cont..
+  244  1. recruit@umuzi-admin:~/Documents$ touch pad.md
+  245  2. recruit@umuzi-admin:~$ cd Desktop
+  246  3. recruit@umuzi-admin:~/Desktop$ cp ~/Documents/pad.md pad_copy.md
+  247  4. recruit@umuzi-admin:~/Desktop$ locate updatedb
+  248  5. recruit@umuzi-admin:~/Desktop$ cd ..
+  249  6. recruit@umuzi-admin:~$ locate pad_copy.md
+  250  Task 6: Find command
+  251  1. recruit@umuzi-admin:~$ locate .pdf
+  252  2. recruit@umuzi-admin:~$ locate .pdf >> results.md
+  253  3. recruit@umuzi-admin:~/Desktop$ find . -maxdepth 1 - newermt "2020-01-15"
+  254  Task 7: Text editor
+  255  1. recruit@umuzi-admin:~$ nano my_bio.md
+  256  2. ctrl+o then ctrl+x
+  257  3. recruit@umuzi-admin:~$ mkdir my_files
+  258  4. recruit@umuzi-admin:~$ mv my_bio.md my_filesop
+  259  /home/recruit/.local/share/Trash/files/idman636build2.exe
+  260  sudo apt install notepad plus plus
+  261  ls |grep \.pdf
+  262  ls
+  263  ls |grep \.md
+  264  ls |grep \.md >> pad_copy.md
+  265  cat pad_copy.md
+  266  ls -al --time-style=+%D |grep 'date +%D'
+  267  find ${1} -type f | xargs stat --format '%Y :%y %n' 2>/dev/null | sort -nr | cut -d: -f2-
+  268  date
+  269  ls |grep \.md
+  270  ls |grep \.md >> Desktop
+  271  locate updatedb
+  272  cd Desktop
+  273  cp ~/Documents/pad.md pad_copy.md
+  274  locate updatedb
+  275  cd ..
+  276  locate pad_copy.md
+  277  ls |grep \.md
+  278  ls |grep \.pdf
+  279  ls |grep \.pdf > what.md
+  280  cat what.md
+  281  locate .pdf
+  282  locate .pdf>search.txt
+  283  cat search.txt
+  284  ls -newer file
+  285  nano
+  286  find . -maxdepth -newmt "2020-15-01"
+  287  find . -maxdepth -newmt "2020-01-15"
+  288  find . -newer file "2020-01-15"
+  289  find . -newer  "2020-01-15"
+  290  find . -maxdepth 1 -newmt "2020-01-15"
+  291  find . -maxdepth 1 -newermt "2020-01-15"
+  292  find .pdf
+  293  locate .pdf
+  294  nano --version
+  295  sudo apt install nano
+  296  nano --version
+  297  nano my_bio.md
+  298  mkdir my_files
+  299  mv my_bio.md /my_files
+  300  mv /my_files my_bio.md
+  301  mv ~/my_files my_bio.md
+  302  mv my_bio.md my_files
+  303  find my_bio.md
+  304  find .md
+  305  git init
+  306  git add
+  307  git push
+  308  git commit
+  309  git config --global user.email "thabomonamodi0@gmail.com"
+  310  git config --global user.name "thabomonamodi"
+  311  git add .
+  312  git status
+  313  git origin master
+  314  git add .
+  315  git add .txt
+  316  rm
+  317  rm .
+  318  rm *
+  319  pwd
+  320  ls
+  321  git add Basic Linux Challenges
+  322  git add 'Basic Linux Challenges'
+  323  git status
+  324  git commit -m "basic linux challenges submitted"
+  325  git push
+  326  git push origin master
+  327  git add origin https://github.com/thabomonamodi/Basic-linux-challenges.git
+  328  git remote add origin https://github.com/thabomonamodi/Basic-linux-challenges.git
+  329  git add .
+  330  git add *
+  331  git add Basic linux challenges.txt
+  332  cd git
+  333  eeeeexit
+  334  exit
+  335  mkdir Basic linux challenge
+  336  cd Basic linux challenge
+  337  find pdf
+  338  find .pdf
+  339  find . pdf
+  340  find . -pdf
+  341  find . -name pdf
+  342  find . -type f -name "*pdf"
+  343  cp ~/Documents/find . -type f -name "*pdf"
+  344  cp find . -type f -name "*pdf" ~/Desktop
+  345  cp find . -type f -name "*pdf" ~/Documents
+  346  cp find . -type f -name "*pdf" /Documents
+  347  cp find . -type f -name "*pdf" /Desktop
+  348  cp find . -type f -name "*pdf" ~/Desktop
+  349  find . -type f -name "*pdf" -exec cp ~/Desktop
+  350  find . -type f -name "*pdf" -exec cp {}/Desktop
+  351  find . -type f -name "*pdf" -exec cp {} /Desktop
+  352  find . -type f -name "*pdf" -x cp {} /Desktop
+  353  find . -type f -name "*pdf" -exec cp {} Desktop
+  354  find . -type f -name "*pdf" -exec cp {} home/recruit/Desktop
+  355  find . -type f -name "*pdf" -exec cp {} /home/recruit/Desktop
+  356  find . -type f -name "*pdf" -exec cp {} /home/recruit/Downloads
+  357  find . -type f -name "*pdf" 
+  358  find /home/recruit/Downloads -name "*.pdf" -exec cp {} /home/recruit/Desktop
+  359  find /home/recruit/Downloads -name "*.pdf" -exec cp {} /home/recruit/Desktop\;
+  360  find /home/recruit/Downloads -name "*.pdf" -exec cp {} /home/recruit/ Desktop\
+  361  find /home/recruit/Downloads -name "*.pdf" -exec cp {} /home/recruit/Desktop \;
+  362  find . -maxdepth 1 - newermt "2020-01-16"
+  363  cd Desktop
+  364  find . -maxdepth 1 - newermt "2020-01-16"
+  365  find . -maxdepth 1 -newermt "2020-01-16"
+  366  git init
+  367  git clone https://github.com/thabomonamodi/Basic-linux-challenges.git
+  368  git add .
+  369  git add *
+  370  cd Basic-linux-challenges
+  371  cp ~/Basic_linux_challenge/Task1 Task2 Task3 Task4 Task5 Task6 Task7
+  372  cp ~/Basic_linux_challenge/Task1 && Task2 && Task3 && Task4 && Task5 && Task6 && Task7
+  373  mv ~/Basic_linux_challenge/Task1 && Task2 && Task3 && Task4 && Task5 && Task6 && Task7
+  374  mv /home/recruit/Basic_linux_challenge/Task1 && Task2 && Task3 && Task4 && Task5 && Task6 && Task7
+  375  mv /home/recruit/Basic_linux_challenge/Task1.txt && Task2.txt && Task3.txt && Task4.txt && Task5.txt && Task6.txt && Task7.txt
+  376  cd ..
+  377  cd Basic_linux_challenge
+  378  mv Task1.txt && Task2.txt && Task3.txt && Task4.txt && Task5.txt && Task6.txt && Task7.txt /Basic-linux-challenges
+  379  mv * .txt /Basic-linux-challenges
+  380  mv * .txt /home/recruit/Basic-linux-challenges
+  381  mv *.txt /home/recruit/Basic-linux-challenges
+  382  mv .txt /home/recruit/Basic-linux-challenges
+  383  mv "*.txt" /home/recruit/Basic-linux-challenges
+  384  cd ..
+  385  Basic-linux-challenges
+  386  cd Basic-linux-challenges
+  387  touch Task1_Basic_Task Task2_Absolute_and_relative_paths Task3_Cat_commands Task4_Locate_command Task5_Locate_command_cont Task6_Find_command Task7_Text_editor
+  388  git add *.txt
+  389  git add .
+  390  git status
+  391  git commit -m "Basic linux challenges done."
+  392  git status
+  393  git push
+  394  git status
+  395  `
+  396  ~
+  397  gguidhf
+  398  dgnug
+  399  mkdir git-basic-exercises
+  400  cd git-basic-exercises
+  401  ls -a
+  402  git init
+  403  ls -a
+  404  git status
+  405  touch README.md
+  406  ls -a
+  407  git status
+  408  git log
+  409  git add README.md
+  410  git status
+  411  git rm --cached <README.md>
+  412  git rm --cached <README.md>...
+  413  git status
+  414  git add <README.md>...
+  415  git commit -m "initial commit"
+  416  git log
+  417  q
+  418  nano README.md
+  419  cat README.md
+  420  git status
+  421  git commit -m "second commit"
+  422  git log
+  423  git checkout
+  424  cat README.md
+  425  git checkout master
+  426  cat README.md
+  427  git branch
+  428  milkshake-flavours
+  429  exit
+  430  sudo apt install openjdk-11-jdk
+  431  public class Helloworld
+  432  sudo nano /etc/crontab
+  433  mkdir git-basic-exercises
+  434  cd git-basic-exercises
+  435  ls -a
+  436  git init
+  437  ls -a
+  438  git status
+  439  touch README.md
+  440  ls -a
+  441  git status
+  442  git log
+  443  git add
+  444  git add README.md
+  445  git status
+  446  git rm --cached README.md...
+  447  git rm --cached <README.md>...
+  448  git -i
+  449  git add -i
+  450  git commit -m "initial commit"
+  451  git log
+  452  nano README.md
+  453  cat README.md
+  454  git status
+  455  git commit -m "second commit"
+  456  nano README.md
+  457  git commit -m "third commit"
+  458  git log
+  459  git add README.md
+  460  git commit -m "second commit"
+  461  nano README.md
+  462  git add README.md
+  463  git commit -m "third commit"
+  464  git log
+  465  git checkout commit 7016cc4118ad3d00ffb41d22e7608c5da4b9f776
+  466  cat README.md
+  467  git checkout master
+  468  cat README.md
+  469  git checkout 7016cc4118ad3d00ffb41d22e7608c5da4b9f776
+  470  cat README.md
+  471  git checkout master
+  472  cat README.md
+  473  git checkout 
+  474  git branch
+  475  git branch milkshake-flavours
+  476  git branch
+  477  git checkout milksgake-flavours
+  478  git checkout milkshake-flavours
+  479  git branch
+  480  nano milkshakes.md
+  481  git status
+  482  git add milkshakes.md
+  483  git commit -m "added initial flavours"
+  484  git log
+  485  git checkout master
+  486  git branch history
+  487  git checkout history
+  488  git log
+  489  history > history.txt
